@@ -1,0 +1,1752 @@
+[
+  {
+    "token": "994a3ed66a8842d98ee322913725f18e",
+    "category_token": "063c5e7f638343d3a7230bc3641caf97",
+    "nbr_annotations": 39,
+    "first_annotation_token": "97b588149f104f269765ed32f05eac00",
+    "last_annotation_token": "3b134343641341f0a5f342c7537888db"
+  },
+  {
+    "token": "25538bc4f4fc4606a772f0edbfea7250",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 23,
+    "first_annotation_token": "a427abad4cc248a992fa0271fb637d98",
+    "last_annotation_token": "eb92fd443ce24fd0ab38fa67d851f6cc"
+  },
+  {
+    "token": "c2f0c60040474dc785e3d5a95d103875",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 32,
+    "first_annotation_token": "167cc3b32b1e41b4bab17e929ce40c80",
+    "last_annotation_token": "17cc2131b0d6466fbe801286a766bf7f"
+  },
+  {
+    "token": "de3c0282a18d47bb90e58cbcfe5d1b7a",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 36,
+    "first_annotation_token": "9b07807e470948c898022f1c7066e2b5",
+    "last_annotation_token": "1671da70de2c4c72856d423457fd8aa2"
+  },
+  {
+    "token": "523827ae301d41d6872e9b67f0c41828",
+    "category_token": "85abebdccd4d46c7be428af5a6173947",
+    "nbr_annotations": 22,
+    "first_annotation_token": "13109590011947d8a8b651b654220b75",
+    "last_annotation_token": "5ef4a3f9d12746eeba3d3fe6790ef935"
+  },
+  {
+    "token": "b512de2ca5264e7abc49340f4e374d00",
+    "category_token": "85abebdccd4d46c7be428af5a6173947",
+    "nbr_annotations": 6,
+    "first_annotation_token": "816d883a6218409f860af7e115f6b8f5",
+    "last_annotation_token": "df40169691dc4c58bec306245a45b5e3"
+  },
+  {
+    "token": "962c57e4bb714d76a6f0e7ef3d86e6b0",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 19,
+    "first_annotation_token": "f1497f8c54994c7b9df26a1fc89abd4d",
+    "last_annotation_token": "2bbbfbc964f74ce2a4c93b7a4f7689d7"
+  },
+  {
+    "token": "5c472497c3604889abac326f35975f10",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 11,
+    "first_annotation_token": "79c53c82541c47d7a3b503a4ce8dd3b5",
+    "last_annotation_token": "f475480615684440b16ceefc313a7cd7"
+  },
+  {
+    "token": "dea830e6bd6f427191c663574aae1af6",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 7,
+    "first_annotation_token": "f4201ed7150c4a08b1b38928ceb64ebd",
+    "last_annotation_token": "75fec7384bc342f79d208ce8ee7c5653"
+  },
+  {
+    "token": "ab5e5fa9fd1845acb286d93eceafbb43",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 2,
+    "first_annotation_token": "efaf3a6fc142484e824e5587d2f68991",
+    "last_annotation_token": "814069da6e5a43069b70e27e85478365"
+  },
+  {
+    "token": "643c9a0d9ded42cd92269059b0b1bdbd",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 15,
+    "first_annotation_token": "af756abc3caa43b49b40f20a6a1614eb",
+    "last_annotation_token": "5503d551963a4356a21d3c7889757f65"
+  },
+  {
+    "token": "cb7bc80ddcbe4cd5866739a7b828c133",
+    "category_token": "909f1237d34a49d6bdd27c2fe4581d79",
+    "nbr_annotations": 2,
+    "first_annotation_token": "ce4b1b3e50dc4a84bed6858a73db2385",
+    "last_annotation_token": "ca9bb1dbd4f247178be4def1b16f9b80"
+  },
+  {
+    "token": "cf710f0a5a644523a1c2e497cb8f80cd",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 40,
+    "first_annotation_token": "80a39a31f2bc4ea78584d97b63af4e87",
+    "last_annotation_token": "41c79f217935408696896dc98e61bc22"
+  },
+  {
+    "token": "efe359b959384e39aa7fa2b38640d4a3",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 6,
+    "first_annotation_token": "063da669f9a1497f8f30a2ae4e99b10d",
+    "last_annotation_token": "82650f77d4bc419e8d314e6a7c1001db"
+  },
+  {
+    "token": "d4c17619c3204bc69527fad063fbff95",
+    "category_token": "fc95c87b806f48f8a1faea2dcc2222a4",
+    "nbr_annotations": 5,
+    "first_annotation_token": "58a5efd5302e464ab75b549f9581f277",
+    "last_annotation_token": "e94180c2091747729e6fdc041447dbd9"
+  },
+  {
+    "token": "80e136585f4b41d4902aef21218925ad",
+    "category_token": "909f1237d34a49d6bdd27c2fe4581d79",
+    "nbr_annotations": 3,
+    "first_annotation_token": "d28724383b02423080346b485381b2a4",
+    "last_annotation_token": "e371c59cdde34e09b09a49273ddc0b1f"
+  },
+  {
+    "token": "3c6c479a679543c694805850a65e3536",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 40,
+    "first_annotation_token": "b6e534aaa14a435a83412cedec4a58f0",
+    "last_annotation_token": "aa940dcf945a4c079878a0da9897c2a1"
+  },
+  {
+    "token": "6f3597c7093b40f4ba57bbfdad9a17f7",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 14,
+    "first_annotation_token": "5d908eceee58450d94f8da74319afb5f",
+    "last_annotation_token": "1572f2e718194722935c14bc8e7dbfd0"
+  },
+  {
+    "token": "47858343541044d39126d257fcf3fda8",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 25,
+    "first_annotation_token": "3a06884ed7f648979a34b748c2a87079",
+    "last_annotation_token": "fbbadb6bb9d84e2e9f96bd636e404f6d"
+  },
+  {
+    "token": "6ed5e2dda54c4c2dadc867a63e69bd66",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 35,
+    "first_annotation_token": "d1004e4becbe4bbd86082327c3e2c84e",
+    "last_annotation_token": "d83afa770e0c4afea6c35e89718e02f3"
+  },
+  {
+    "token": "d92b7854ca304241bf99e54927ae3158",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 31,
+    "first_annotation_token": "70443a269ebb4f0d9f8541d298d8d9cb",
+    "last_annotation_token": "7c0f406fb3494d8783ef67c8b3a4a5aa"
+  },
+  {
+    "token": "28dec181ae7e44a9b54b45ae1d22d9c1",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 26,
+    "first_annotation_token": "d09b2d0207474adf908cf342fa6e8f2a",
+    "last_annotation_token": "ea4fcf337d5f4c2bbe433eaf92c85b3f"
+  },
+  {
+    "token": "3588e62d1c3541bb85f0f258ddc26d5c",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 25,
+    "first_annotation_token": "d6c73ad0549d45de80f11c5c7c5810de",
+    "last_annotation_token": "78765f77d37648bdb05db81f03ab7930"
+  },
+  {
+    "token": "dce8ebf994c746868aa808e6dcd79388",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 29,
+    "first_annotation_token": "42eb693caaa04fde91cea5db8dea3f7f",
+    "last_annotation_token": "b2fa51c6fd674d2ea90aca6777abd1ed"
+  },
+  {
+    "token": "236453d07e804022af1aca1ca348468e",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 9,
+    "first_annotation_token": "34edad3c73274709b3ac27bae2db9fac",
+    "last_annotation_token": "d4ecb44f78be4a38b526aa8f90481634"
+  },
+  {
+    "token": "4b96404634bb4a6b890aced561c8725c",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 28,
+    "first_annotation_token": "348e8ffb361842cf8af57935a0710251",
+    "last_annotation_token": "9265a6122fe34f30892d219674d6402d"
+  },
+  {
+    "token": "0d7a7127868a4397b22fd24eacc7dd32",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 30,
+    "first_annotation_token": "c3ab85c9a18147f59e494f94a910be82",
+    "last_annotation_token": "efe4f88aa43241b09cbed1ecb07d56a5"
+  },
+  {
+    "token": "1426d3f90e594ce5a8f292bef8f7812d",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 15,
+    "first_annotation_token": "d0c6822ab2094392a19e7403c39f940b",
+    "last_annotation_token": "4c504cb8447747bd970296f32b09ae13"
+  },
+  {
+    "token": "e985847d3ca746d7b36f167f76213ee8",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 19,
+    "first_annotation_token": "db69e2796d764963aa7996d61a2113d0",
+    "last_annotation_token": "3815c07022cd4c8cae86f5b2f2d0cd8f"
+  },
+  {
+    "token": "7fb6e910779c4393bc4cd4f9465a7949",
+    "category_token": "909f1237d34a49d6bdd27c2fe4581d79",
+    "nbr_annotations": 1,
+    "first_annotation_token": "ab2826c44465469babc71eb4d2d76ffa",
+    "last_annotation_token": "ab2826c44465469babc71eb4d2d76ffa"
+  },
+  {
+    "token": "c992622d44e44fc39332a821e8af597d",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 8,
+    "first_annotation_token": "7ce1601987534a38a2709d54c411a6d7",
+    "last_annotation_token": "095acb5f0498480f9e624abae3480c58"
+  },
+  {
+    "token": "6570dd563c53402781be1ae18f2b48da",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 7,
+    "first_annotation_token": "8e07eee2bf344f31a9ae31a2e6e23266",
+    "last_annotation_token": "a417681550434a07a643f6c7e5af0a72"
+  },
+  {
+    "token": "eef2fac4d94a452e9c5238b1bc3cfae4",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 11,
+    "first_annotation_token": "937c125ae3e54cb9a1184b4d3d8d051d",
+    "last_annotation_token": "656372c4ffbc44d89ccb3833fe172c10"
+  },
+  {
+    "token": "a301b3b9de6c4941a861a44278ca5256",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 3,
+    "first_annotation_token": "0751f2c5580f414496b4be04119eba6b",
+    "last_annotation_token": "0dde7c6e28a643c698fc4be2b458da7d"
+  },
+  {
+    "token": "5f4fd4cf9a0949f7afe075b2efe9bb0a",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 8,
+    "first_annotation_token": "473abbd4e3cb4a5ebea8b99df5e326ea",
+    "last_annotation_token": "dc61137c7f5a435fbd4df2f09d87ba57"
+  },
+  {
+    "token": "2121ff58588844d3921531b66c0f24e9",
+    "category_token": "85abebdccd4d46c7be428af5a6173947",
+    "nbr_annotations": 14,
+    "first_annotation_token": "54cf243cf9a64ba5a74f11a87ae695d9",
+    "last_annotation_token": "772ddb0d316f4b3ca27afb42dba3df0d"
+  },
+  {
+    "token": "c73a5328b6b147189b5fccdb1cfe1eb4",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 6,
+    "first_annotation_token": "e20e9b3dad1045739d97d8725381c6ef",
+    "last_annotation_token": "32ea11d3bfd74ff9809ffadcacc14620"
+  },
+  {
+    "token": "7d0bb0ac70c14b158d82b38d24c3b0a1",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 10,
+    "first_annotation_token": "9b323e14281c4d8587c87ab78d58f6e9",
+    "last_annotation_token": "2da1561a1eca40daab69ab67596a8294"
+  },
+  {
+    "token": "81e964f0e56b41838ec9dd296a61521f",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 2,
+    "first_annotation_token": "e48bc7c7db4146618ea194ba92c47884",
+    "last_annotation_token": "3a01a13239b7480dada6869971cda9fd"
+  },
+  {
+    "token": "ae941ca17b90405395026020b3e66472",
+    "category_token": "dfd26f200ade4d24b540184e16050022",
+    "nbr_annotations": 19,
+    "first_annotation_token": "73eaf902543c4271965e2e52db19a205",
+    "last_annotation_token": "7130b9a024304f3cb6661cc325101f08"
+  },
+  {
+    "token": "a0281b5e78a341fba192058740d30513",
+    "category_token": "5b3cd6f2bca64b83aa3d0008df87d0e4",
+    "nbr_annotations": 32,
+    "first_annotation_token": "e9bcf23ee3d64939bf84a1b95497bf7c",
+    "last_annotation_token": "f45dcb1dc0984e9f9586ea4116d74444"
+  },
+  {
+    "token": "4b86f14108b84180bf2ba1899d4aa69e",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 35,
+    "first_annotation_token": "9dce55024fa545069800a7501a5f3e2c",
+    "last_annotation_token": "e58e6bdb555e4db1a9d133c4024296bb"
+  },
+  {
+    "token": "4f23381a1178455cbc0e36ace529e31b",
+    "category_token": "063c5e7f638343d3a7230bc3641caf97",
+    "nbr_annotations": 27,
+    "first_annotation_token": "1a3599dddd414ba59184d2b40fbb8c04",
+    "last_annotation_token": "c4184e706b534158ac8d37858b01e03e"
+  },
+  {
+    "token": "8d7b0d1c42384d119c2453efe0a25123",
+    "category_token": "909f1237d34a49d6bdd27c2fe4581d79",
+    "nbr_annotations": 1,
+    "first_annotation_token": "c60aa714d16c46bd84f702c5fe023f53",
+    "last_annotation_token": "c60aa714d16c46bd84f702c5fe023f53"
+  },
+  {
+    "token": "c6422e522f6d43dbba0b273e18c26059",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 14,
+    "first_annotation_token": "ac912b6e116e434b9126e94d8cdb8d4e",
+    "last_annotation_token": "a28c5f9354e24b5abb1188a29d4ceb38"
+  },
+  {
+    "token": "dcbbd11430a346b287a528679c44a433",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 15,
+    "first_annotation_token": "b1a8e059e91543cdb9881d5d2371f0e3",
+    "last_annotation_token": "0166a3fcde5a458a9d04a39e6d43ab76"
+  },
+  {
+    "token": "c88241acd2b041188cc794cd76781872",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 10,
+    "first_annotation_token": "40b273b465bc4f51ad41e8bfb9a17942",
+    "last_annotation_token": "d8ea3b065b54495ca382999aa2e8fa23"
+  },
+  {
+    "token": "6e5946a68de44f27be2dea681e9f4790",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 6,
+    "first_annotation_token": "41a9e62fc18a447b9124a988b85482d6",
+    "last_annotation_token": "73ea459fcd4941598ace4e6dd34bf015"
+  },
+  {
+    "token": "03c9f52e46c34875803c46f6f8507d14",
+    "category_token": "85abebdccd4d46c7be428af5a6173947",
+    "nbr_annotations": 14,
+    "first_annotation_token": "0a889da086de4ee08769159df3205826",
+    "last_annotation_token": "b47570fd622d4a6d9859ca87b06d0728"
+  },
+  {
+    "token": "f3d10da5b01446a8a9b219f95624942e",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 6,
+    "first_annotation_token": "92b733b628d745a7afe90e64e950eea4",
+    "last_annotation_token": "da034fa8634247b2adfd2adbfcaff28c"
+  },
+  {
+    "token": "9eb61d6dd78842619eb24f88f920dee4",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 3,
+    "first_annotation_token": "ca7c6bbf17cb452287db0e5c1d41d46f",
+    "last_annotation_token": "89cae1c580b84516b1b4e4650a0bd114"
+  },
+  {
+    "token": "e84e0cc163374bb1adb4f6c01e384a71",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 38,
+    "first_annotation_token": "83173f05b8484a2dbc6528cef8dbf882",
+    "last_annotation_token": "4344c6f9b60a41468264709de462772f"
+  },
+  {
+    "token": "701ccb65535f49afba5eea0bc6f36684",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 40,
+    "first_annotation_token": "ec9a3aa1802c49a29fbf4a0bf827dd20",
+    "last_annotation_token": "ee515c5bca0f46d288bd1cb962222807"
+  },
+  {
+    "token": "f0d53e934c2b488399eb0bef8eb2f11d",
+    "category_token": "909f1237d34a49d6bdd27c2fe4581d79",
+    "nbr_annotations": 1,
+    "first_annotation_token": "369a76c4bfad459eab201e1a2bcb7940",
+    "last_annotation_token": "369a76c4bfad459eab201e1a2bcb7940"
+  },
+  {
+    "token": "b1af7a2254b345d7b363626db980cd62",
+    "category_token": "063c5e7f638343d3a7230bc3641caf97",
+    "nbr_annotations": 37,
+    "first_annotation_token": "a6a0a94ca3d548cfae019ef3adc49308",
+    "last_annotation_token": "b72b4a640bbd4b9a93cd4c1b5e6901ef"
+  },
+  {
+    "token": "a1df10c5f7f34f16893932a8f87b3f1a",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 28,
+    "first_annotation_token": "7fa62a761b0a492ab3ee6fe83765c26a",
+    "last_annotation_token": "f819da946c4045bdb999bbcdbf652b35"
+  },
+  {
+    "token": "76fb5c369f2243deb51b90047ef433c6",
+    "category_token": "909f1237d34a49d6bdd27c2fe4581d79",
+    "nbr_annotations": 2,
+    "first_annotation_token": "f45e6192e72b4cd0b84a1ec7fff75e84",
+    "last_annotation_token": "638a88e93e604655804058e0e3ab23f5"
+  },
+  {
+    "token": "08d5693fed4444fa9be7282b581b8ecd",
+    "category_token": "85abebdccd4d46c7be428af5a6173947",
+    "nbr_annotations": 28,
+    "first_annotation_token": "39caa984b4884913a20fddd654912ef1",
+    "last_annotation_token": "87f7168562ca4cdd9726de60f0432d71"
+  },
+  {
+    "token": "e00f6a2529ac4e049d5a0c2c06367c8b",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 31,
+    "first_annotation_token": "92c24b058b4c436e893756ff37b6187a",
+    "last_annotation_token": "e06c473c584743cdb4f8dfa063735baf"
+  },
+  {
+    "token": "96be4479e7774d3d8d70033a2a821f71",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 39,
+    "first_annotation_token": "175c3aa1ebe940d89ce37543c313762b",
+    "last_annotation_token": "bceed5e509be418baf23ccf23ebb8e61"
+  },
+  {
+    "token": "7a3d874f43424f87adbb9d09c1626e19",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 6,
+    "first_annotation_token": "087947c707f84c88a8c2d46751191f2a",
+    "last_annotation_token": "a6f8b6db1ef1409f89445c028986f164"
+  },
+  {
+    "token": "12bd17c6eedb4ffd8f322bc4856cd74c",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 30,
+    "first_annotation_token": "c5e429f7dfc84f22b4520638e9efdd23",
+    "last_annotation_token": "1cecb7f4b46141fd8af0e8f3cbf751ff"
+  },
+  {
+    "token": "d64dbcbdbe29402f885a2c6803e4363c",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 22,
+    "first_annotation_token": "b42fb75f93a24280a1d0faec517a53ef",
+    "last_annotation_token": "05568203474f4052b202aea459e0f48c"
+  },
+  {
+    "token": "917a456da63f4ad98fb9501917263c2b",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 33,
+    "first_annotation_token": "479864f6695d4887898a4bda44ddce87",
+    "last_annotation_token": "982c07a8dc2f48d5b07eccd5e59c38fa"
+  },
+  {
+    "token": "116c8c2a8b694515b0eef1d583728116",
+    "category_token": "909f1237d34a49d6bdd27c2fe4581d79",
+    "nbr_annotations": 1,
+    "first_annotation_token": "f7c6c68fda134460ba2730f42aac7069",
+    "last_annotation_token": "f7c6c68fda134460ba2730f42aac7069"
+  },
+  {
+    "token": "4a6e9d3d37df415e9e774ddb181ebdf5",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 18,
+    "first_annotation_token": "19e6a264641c40d59d2353187dc32cdc",
+    "last_annotation_token": "a8a00a6ebc504a399a18a58aa8f14848"
+  },
+  {
+    "token": "9d9bf4915c114f99939995d374c5bfce",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 12,
+    "first_annotation_token": "bc37caa9253f4e03b1e7538faad70716",
+    "last_annotation_token": "85e0fb1ddeb34d3b80ff37376ef7068e"
+  },
+  {
+    "token": "26d249ddbf164aa9843f9382a904a77e",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 6,
+    "first_annotation_token": "da9cde3bf58f444988c4b411e138b8f4",
+    "last_annotation_token": "dea145d9188c40d2b3d14c0c12df3b6c"
+  },
+  {
+    "token": "42556355afe74d1daff9c6efb5874dfa",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 23,
+    "first_annotation_token": "aac14f1fc3a54e3f8e1e2b862aecf9d9",
+    "last_annotation_token": "0ca66796fc5044c8bdf590f8f59555db"
+  },
+  {
+    "token": "a748c74c9bb14cd18da68d01a5ea34c9",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 7,
+    "first_annotation_token": "2c878e03cef8491e89a2deca88c4ff89",
+    "last_annotation_token": "a2a0d82f9ea7445bb093fd4819704e5d"
+  },
+  {
+    "token": "10773a6aacd14e019a41bab1d90421bd",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 5,
+    "first_annotation_token": "19f0b4a56f5741b3a28220acfc4238c9",
+    "last_annotation_token": "0dae79002aab4cddad2ce48aac6a181f"
+  },
+  {
+    "token": "297742ecde1342b6bce5fb79f6f4aaed",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 14,
+    "first_annotation_token": "2bfb0cbf2c4f4b2cb33afb99485d647b",
+    "last_annotation_token": "a601ac697cbf4f189050471d457b82ea"
+  },
+  {
+    "token": "7eb7ba8769d245259bbd7714c49defd9",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 8,
+    "first_annotation_token": "e20732f879ba43fb8eddbe7b352985c6",
+    "last_annotation_token": "77458a6b47084a308844f6fa971533bf"
+  },
+  {
+    "token": "dcf481ba75bf4577a0c68c5c2af07ce9",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 7,
+    "first_annotation_token": "050bf8b24ffa4f59b03362f6d372438c",
+    "last_annotation_token": "66d34c6d333e4143855191624e9c9fe7"
+  },
+  {
+    "token": "9bdc84ea0fd84c639e61d267d0d84b49",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 4,
+    "first_annotation_token": "564b761d1cce40adb24fe1f769d5de4e",
+    "last_annotation_token": "17336e798004455c82457d323023ceb4"
+  },
+  {
+    "token": "d48f02a7066a480aa5f15e88a2e336a2",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 8,
+    "first_annotation_token": "55cdb3b1fd9f46059ce3c4683a10e8b4",
+    "last_annotation_token": "e5f0383d40904c79aee3326f2e52c5fd"
+  },
+  {
+    "token": "dd350bc5ec7c4c5095efbdb9dd7435e1",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 5,
+    "first_annotation_token": "0a963731a6a141f599633735ab758c3e",
+    "last_annotation_token": "4196c1f59d454af29f6364ab6d890574"
+  },
+  {
+    "token": "f3984cb1cae04b8fb2208b96e32b992a",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 3,
+    "first_annotation_token": "35cd770be5da46ebb245933b0164eb06",
+    "last_annotation_token": "5701011969234f4580da045d6b479f92"
+  },
+  {
+    "token": "6843d5aa052145dbb866934b2ca1b072",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 40,
+    "first_annotation_token": "05a8738fa7b44c29a3a165584d4626ae",
+    "last_annotation_token": "406c9710cf714b99934d003b3a743f52"
+  },
+  {
+    "token": "fea57abfea8c44d4b5a404d940e4ba13",
+    "category_token": "fc95c87b806f48f8a1faea2dcc2222a4",
+    "nbr_annotations": 23,
+    "first_annotation_token": "3c622076c8d948bfaf002e0f3a371dc7",
+    "last_annotation_token": "54db681bb59448c5b7e362c960cd01af"
+  },
+  {
+    "token": "546a404f25db4611bd565ab6191213c9",
+    "category_token": "85abebdccd4d46c7be428af5a6173947",
+    "nbr_annotations": 13,
+    "first_annotation_token": "49009405d4d149c78f972b5300dea09f",
+    "last_annotation_token": "9354f2697a1d4c058ec74fe968f8f04e"
+  },
+  {
+    "token": "f611a194a25e4843bc26847f87966aac",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 38,
+    "first_annotation_token": "dfa8335a28004a21b825428931fae671",
+    "last_annotation_token": "52b7162948b046c99ed3c5a3c1616b47"
+  },
+  {
+    "token": "e58b6337644c4fc297b221dc14ea1a5c",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 34,
+    "first_annotation_token": "2aa7872e5f3a42b685be8156f40e9621",
+    "last_annotation_token": "dd1662732bcf4099a4269045de5704ca"
+  },
+  {
+    "token": "7bf13bc5ae534023928ac8c49593886a",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 26,
+    "first_annotation_token": "8af40aca0f3d4686bbf387590dcc8fd2",
+    "last_annotation_token": "aa43529a4858477b899003ec62355e40"
+  },
+  {
+    "token": "ab6e45c97ed043678d1d4d4965eaef67",
+    "category_token": "909f1237d34a49d6bdd27c2fe4581d79",
+    "nbr_annotations": 1,
+    "first_annotation_token": "62be435c406c41c3aa3907ab07d4ece5",
+    "last_annotation_token": "62be435c406c41c3aa3907ab07d4ece5"
+  },
+  {
+    "token": "3044ee9b962045d58f17a5f250522c3a",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 15,
+    "first_annotation_token": "17086304d88045aebcb8ecca5c1782b6",
+    "last_annotation_token": "261094977d5245d296a133862bd7a608"
+  },
+  {
+    "token": "0368a028f4f14d94b107eae5ae6650d8",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 17,
+    "first_annotation_token": "7cffd3c7658f49ceac240044836e166f",
+    "last_annotation_token": "5aff5f43b67140fdb32f8f8eb9183379"
+  },
+  {
+    "token": "60e611feae42449bb054684de5f6771f",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 18,
+    "first_annotation_token": "182310da74924c108fefff9d1faeb80f",
+    "last_annotation_token": "eee0840732704fc2b4a1b269f757c56d"
+  },
+  {
+    "token": "afd9a66f9a84494bbbf0221ea133239f",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 25,
+    "first_annotation_token": "032c2641354a43cab4fb24f1f7cd4ed2",
+    "last_annotation_token": "49d8696938084319aa116f00e6030271"
+  },
+  {
+    "token": "9beddbb7e35a4f81bf709b37ea8617fd",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 10,
+    "first_annotation_token": "6410245b1f024c869da047568715510b",
+    "last_annotation_token": "2328941bfa8541b9ae792e6e2c237248"
+  },
+  {
+    "token": "98bb9c8150b44d269ea712920f289765",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 21,
+    "first_annotation_token": "ba93422160964a7493f530f0cbd4a4ff",
+    "last_annotation_token": "04818b6edba84e268f7f0ca21d3daccf"
+  },
+  {
+    "token": "0892e8234efc489fb6ea26e00941b569",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 6,
+    "first_annotation_token": "0ebdb57bf1e648999c9db2641f091980",
+    "last_annotation_token": "04110deaec8e4b558885ff6b890cb4e9"
+  },
+  {
+    "token": "5933768802e749e4a321f8c90d1956f8",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 7,
+    "first_annotation_token": "26bb9e071bc1461d844a7cdeb83a9ce3",
+    "last_annotation_token": "63bea36d449b4adba95d9d950dc1ff6c"
+  },
+  {
+    "token": "83673d351ac740e1926cf0078a13ecf4",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 15,
+    "first_annotation_token": "1f0f7748c6d04bb889c60fb3eb968755",
+    "last_annotation_token": "824848508a284a8eae1584b85ce6f45e"
+  },
+  {
+    "token": "c247ee4b079842c89d5258205f28cf9b",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 5,
+    "first_annotation_token": "2caeba9c71a8477d984c583a0dc604bc",
+    "last_annotation_token": "8bf36af7ef42483690fc9de5f52c9c8d"
+  },
+  {
+    "token": "1e8ca0254780457f9b233142f1a94bb5",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 9,
+    "first_annotation_token": "988d1b16563c4dbcb5376f65739098ba",
+    "last_annotation_token": "b8eb03d23f2145c0aaab3a599b1ceea4"
+  },
+  {
+    "token": "f9f53d95260f47ce8a988e21f75809b5",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 40,
+    "first_annotation_token": "6d912154a9d2444ab762a4fc2c004793",
+    "last_annotation_token": "29f01820fff94ce9b5b8a331d7f3b372"
+  },
+  {
+    "token": "ca2051e2fa544daea20d6d592aba92cb",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 6,
+    "first_annotation_token": "1083ac96c033498596a2adeac6945a6f",
+    "last_annotation_token": "ff05e41621114746946c96b823ad9643"
+  },
+  {
+    "token": "cb68df2e08504e8089425295667bc730",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 40,
+    "first_annotation_token": "d2c90f31c218480e8a77bcbb2432f423",
+    "last_annotation_token": "a070a3c37a2a47b099a38b03196fbecc"
+  },
+  {
+    "token": "655ae1e52aa348f08156ac5bfc107a6e",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 39,
+    "first_annotation_token": "2ca495dd57684a519a977334376f6ff4",
+    "last_annotation_token": "a61771f0256447b5b4d2a11e31e9dcc6"
+  },
+  {
+    "token": "c38aacdd71a442f9b2bc846ef8b47993",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 29,
+    "first_annotation_token": "7198d3189b6a49b7b1436be32a2a3b60",
+    "last_annotation_token": "ca696d72ceee4749ae2fc43188e4f8c8"
+  },
+  {
+    "token": "fc5cd536b12444168cbf802fcb59c4ca",
+    "category_token": "fedb11688db84088883945752e480c2c",
+    "nbr_annotations": 14,
+    "first_annotation_token": "1e7735a2e89540f6b7d3d0dc36df86e3",
+    "last_annotation_token": "1ddaccb9fb484882a4ca6ad6e5720019"
+  },
+  {
+    "token": "52aeed0074da450ead316055c96904e9",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 40,
+    "first_annotation_token": "4476bbd4170f49488710064bb9c5f532",
+    "last_annotation_token": "85187337ec394eaab2837904220a2731"
+  },
+  {
+    "token": "990954210af24ee1bce9643599376aa2",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 19,
+    "first_annotation_token": "d01ae6456fce42f7af93c42aa3397e28",
+    "last_annotation_token": "f712040736b24e3ca36e1d2d1e428e3c"
+  },
+  {
+    "token": "ac95a0af71a9448d8c8ec35c2ddb74e9",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 16,
+    "first_annotation_token": "b81b6e2a0f624e0082e654e0ac099b79",
+    "last_annotation_token": "a3890d95a01440db8cb9e8250d988a37"
+  },
+  {
+    "token": "93fccc34b17e4561b62a16d31de64be0",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 4,
+    "first_annotation_token": "144d698749e941d29bbd6adc2fc28223",
+    "last_annotation_token": "1ea5715835af451392f48803fff39b20"
+  },
+  {
+    "token": "f0b013789bde461aa012b025c87726de",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 19,
+    "first_annotation_token": "3aa8511b4b2c4e2a8a6f9a6688fa40eb",
+    "last_annotation_token": "26c8bacc73094cdca1e193adc1acb026"
+  },
+  {
+    "token": "73715314f8f543d6ba29770abf2def1d",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 6,
+    "first_annotation_token": "dee78faa0591449ca2f4e6cfa5c0fcb4",
+    "last_annotation_token": "2f83e487f5684b18986bb83a9ede9e07"
+  },
+  {
+    "token": "4c31aec5265d46409f6dc24518e48b8b",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 4,
+    "first_annotation_token": "1c8f39920d334068a0cdce6563054b5e",
+    "last_annotation_token": "ebb420e435bf45d2baa8f2f6ca87b19d"
+  },
+  {
+    "token": "18746b6f8a0d47cab02b0bb3f7164f60",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 39,
+    "first_annotation_token": "63c404423d11488186807471dfc2f7e4",
+    "last_annotation_token": "44cdddd2f44d494e86ac899195b30d6d"
+  },
+  {
+    "token": "b87513b910504eeaa7c774cb04546faf",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 2,
+    "first_annotation_token": "a06d0811b82a46698d5b4cb8ff498321",
+    "last_annotation_token": "03bd23ab07c64d1ea862bdda213a34fa"
+  },
+  {
+    "token": "f5d2404fd09e4424ba84424b887ea35f",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 7,
+    "first_annotation_token": "492efb7a20ab42b9bc429c7aff6f537c",
+    "last_annotation_token": "533c6145913641ecb927c97c7f8b2891"
+  },
+  {
+    "token": "266240a7e6514366baa1d61180f05c95",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 7,
+    "first_annotation_token": "bd57c2afd5eb4c79b89a032c2ce6b497",
+    "last_annotation_token": "8842a356d6db460795362ba209c9a854"
+  },
+  {
+    "token": "6e821ad3671a49dba29f3ce3612a20f5",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 28,
+    "first_annotation_token": "2772eef4348f47e2ac3df482277de7ab",
+    "last_annotation_token": "49285c703f0b4d919332f3b412fcc24c"
+  },
+  {
+    "token": "e2c5160bbbbc40c38873770e8c61c358",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 35,
+    "first_annotation_token": "4671d80ef24b484db9ca9bf0de703cf5",
+    "last_annotation_token": "5bde545ae30f40c589cdcbedb1e993a2"
+  },
+  {
+    "token": "a26a08597a8d4bb99b99370fa5f19760",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 17,
+    "first_annotation_token": "b2e7b47f0f5c486f9c83a802215e9423",
+    "last_annotation_token": "f2e27b0eb58c436aa7c55fb8d5bf2757"
+  },
+  {
+    "token": "9b8e99557f394e9d9f68d4133335cbc7",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 2,
+    "first_annotation_token": "e9489190a79942bfb076d9768feca3b8",
+    "last_annotation_token": "ef62d4004c354e6ba7f389528a6b7cba"
+  },
+  {
+    "token": "b7cce803218240e0b65ba198674ffa09",
+    "category_token": "063c5e7f638343d3a7230bc3641caf97",
+    "nbr_annotations": 18,
+    "first_annotation_token": "863eeff5c2054ddc9007101cc13b700c",
+    "last_annotation_token": "e4f1e403e4df4368b2672619d5b30dbc"
+  },
+  {
+    "token": "de1a285d49684f1dabee88ea9b22e2b7",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 6,
+    "first_annotation_token": "04990667a9c24adfbc6c4e22609a63db",
+    "last_annotation_token": "4750a51eb3844c2d86a02aff28a59902"
+  },
+  {
+    "token": "82db34bb937241e287f248f29e6a7e37",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 5,
+    "first_annotation_token": "d4ad9766f86246e7955f32f2fa157e20",
+    "last_annotation_token": "f99ef7875ccd4f878cc5f27eebe16386"
+  },
+  {
+    "token": "8541a042205f407cb280e1d61e3f529a",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 13,
+    "first_annotation_token": "675bee49fcf8416ea0334c4217fa84d1",
+    "last_annotation_token": "f8bfe2fd782c46aa8ba5bdb04d16975e"
+  },
+  {
+    "token": "923d725e1ed54a21a16d50121a6a4e0b",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 9,
+    "first_annotation_token": "dd302ed85b1c42f98a12102346f89e18",
+    "last_annotation_token": "b858293326ac43f0944d4710a06e015d"
+  },
+  {
+    "token": "52e258f691d7455ebab26203027c60e4",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 6,
+    "first_annotation_token": "64d49c20b8b3443f9e539cc1ac981f6a",
+    "last_annotation_token": "c18bed288375462d94cf716c0d2b5d32"
+  },
+  {
+    "token": "71acdb1bb2c342f5ba36cffdb62266dc",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 8,
+    "first_annotation_token": "35fe3bd56124464587684dea3f584b79",
+    "last_annotation_token": "31dec4ee141a4eb5a31c23942bcd8b8b"
+  },
+  {
+    "token": "b0c0a8209cba413cb4129b70e986805d",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 1,
+    "first_annotation_token": "6ed18480e6dc406e8aec61c62eb9cebd",
+    "last_annotation_token": "6ed18480e6dc406e8aec61c62eb9cebd"
+  },
+  {
+    "token": "72bfc7f983ff49e18f77c9f3fb4cc98c",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 4,
+    "first_annotation_token": "0b588fe54734408ea906cb0af8a8c40d",
+    "last_annotation_token": "e279570c80554b0aae56f923476fcd71"
+  },
+  {
+    "token": "43c2d41f5fe943b78451226f743a131b",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 34,
+    "first_annotation_token": "1354ea1bad2848e6a2a12544a10de56c",
+    "last_annotation_token": "046af05db29148669cd44ca33f0fa401"
+  },
+  {
+    "token": "4bbb04bb451f449fa2158c93cfa03759",
+    "category_token": "85abebdccd4d46c7be428af5a6173947",
+    "nbr_annotations": 14,
+    "first_annotation_token": "bf8a2fc988aa47298d4096c476a0473c",
+    "last_annotation_token": "736dc9e4c82740ec906268846ec1ba62"
+  },
+  {
+    "token": "f0108b0bdf3e42c2b36397b0abb8b89a",
+    "category_token": "85abebdccd4d46c7be428af5a6173947",
+    "nbr_annotations": 13,
+    "first_annotation_token": "265e60fc7b174681ad57fb39299bde3c",
+    "last_annotation_token": "db310cae2d644f659d46f5d431c1e526"
+  },
+  {
+    "token": "18c82c92828f4177b199f51431ca6187",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 37,
+    "first_annotation_token": "629d27170e3945159c2686a782e094ff",
+    "last_annotation_token": "1d5a8e3b6d234035a42e3f5adb0c51f8"
+  },
+  {
+    "token": "10639ad4003848978a67ac1b8234cb98",
+    "category_token": "85abebdccd4d46c7be428af5a6173947",
+    "nbr_annotations": 28,
+    "first_annotation_token": "cca82aaea75f46949697fe77f5467b1a",
+    "last_annotation_token": "0e7d22db801c40f786d79f4777893374"
+  },
+  {
+    "token": "0e6d2aa68c1a46a6b8a32cb10e58f2dd",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 26,
+    "first_annotation_token": "a341dc33e28147fd8edea01ae1cb9deb",
+    "last_annotation_token": "d6ccbcd5233d492e87d5a4f0dc093e99"
+  },
+  {
+    "token": "5887183317844b93ba1e251e1dbf96b4",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 8,
+    "first_annotation_token": "d9f8143243634571a48d5cfc91c114c9",
+    "last_annotation_token": "31615d64aeef4b03bbd9939e55a83348"
+  },
+  {
+    "token": "f28e1e8923a24394b3d0421b5b1c88a5",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 8,
+    "first_annotation_token": "307b0efb1707495399dbb20fc266ff51",
+    "last_annotation_token": "755ac58b4b094185b88cff56d69fc69e"
+  },
+  {
+    "token": "acdd97a14d5342338ee181a8e787d471",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 13,
+    "first_annotation_token": "eb9ffc0b08cc4f33994d3afc5cdd0624",
+    "last_annotation_token": "085a2ce7161549d0b4833fd5e63b04da"
+  },
+  {
+    "token": "3eb2d19a363b416ca8b6e1075d4c8a51",
+    "category_token": "7b2ff083a64e4d53809ae5d9be563504",
+    "nbr_annotations": 39,
+    "first_annotation_token": "c1d18500df7446f08ae48f9dae5804a3",
+    "last_annotation_token": "901dd4ebeac842dd9d19d5c72c769520"
+  },
+  {
+    "token": "071f4888858245d8a0954c7bdf4f7612",
+    "category_token": "5b3cd6f2bca64b83aa3d0008df87d0e4",
+    "nbr_annotations": 8,
+    "first_annotation_token": "8546a734e91a4002bdd31459addd2f72",
+    "last_annotation_token": "f6f651cbc4b04781b24858b53728f38e"
+  },
+  {
+    "token": "554a5a3acb084437abf5b9f206e0dfe5",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 35,
+    "first_annotation_token": "2cd9b95ce13341c1a2d1055b0b4d6855",
+    "last_annotation_token": "dfcbb4435fe741cc9ec87fd607141e26"
+  },
+  {
+    "token": "02c9153f8bc346dca54dafdeb8620faa",
+    "category_token": "85abebdccd4d46c7be428af5a6173947",
+    "nbr_annotations": 2,
+    "first_annotation_token": "c5f8cd2a545946bb89acaa6aa741c6ac",
+    "last_annotation_token": "d5b9b99485524c67ae202c7840373782"
+  },
+  {
+    "token": "a403a65b20ce40f1b0045c08c707ec32",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 3,
+    "first_annotation_token": "62ea75f93d4d4ed9a3eefe7eff2190f9",
+    "last_annotation_token": "a7150ec51a29455086baa0ba254be460"
+  },
+  {
+    "token": "fa45ea54be244f518e023280420ff6d7",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 37,
+    "first_annotation_token": "00aa6abd85ee45559506c11b41bbe0bc",
+    "last_annotation_token": "fe7762b92ab24d0ba820ab0423e66352"
+  },
+  {
+    "token": "086134095cdd4a188e33efd6b4bafb9e",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 33,
+    "first_annotation_token": "4e484342895e45349abe88159c9cbf56",
+    "last_annotation_token": "b80f69daeee545adb533c52f44f380b5"
+  },
+  {
+    "token": "f900f6c50638431ebef532aa472abbb0",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 40,
+    "first_annotation_token": "ca32163a6b6f429f93e2ad6033f728a9",
+    "last_annotation_token": "d2c983aca6084362803f25935782c3b7"
+  },
+  {
+    "token": "e083fe0ffd9c41bd970a7027244c084b",
+    "category_token": "909f1237d34a49d6bdd27c2fe4581d79",
+    "nbr_annotations": 1,
+    "first_annotation_token": "687c8799b8f04b428e906284252c691e",
+    "last_annotation_token": "687c8799b8f04b428e906284252c691e"
+  },
+  {
+    "token": "cb0fe640fce84d9fa778ed6c082588be",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 36,
+    "first_annotation_token": "ef26224b45204045b92d3185fabedfeb",
+    "last_annotation_token": "881f789879364758aafb82a8b210b6ae"
+  },
+  {
+    "token": "02d2ea41987d404ea5dc2fbbf229c1cc",
+    "category_token": "653f7efbb9514ce7b81d44070d6208c1",
+    "nbr_annotations": 14,
+    "first_annotation_token": "f5a7e926321145e0b2f748d853d83da6",
+    "last_annotation_token": "315477d49f1b4062aa70fde05f9f7149"
+  },
+  {
+    "token": "96dd7fb0780143b4b32f20f699414cd9",
+    "category_token": "909f1237d34a49d6bdd27c2fe4581d79",
+    "nbr_annotations": 1,
+    "first_annotation_token": "32eadb823b0c40eeb0ba1388b9f90198",
+    "last_annotation_token": "32eadb823b0c40eeb0ba1388b9f90198"
+  },
+  {
+    "token": "c669a2485f424e7e850fdcd5078207f1",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 19,
+    "first_annotation_token": "bfd0df56c5ab43bf971775ff7260508d",
+    "last_annotation_token": "22ab3f7d59e345bfabbc8654ec49b48e"
+  },
+  {
+    "token": "7adc80ea52bb42bd832385c9b14215b2",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 24,
+    "first_annotation_token": "69da977c4cc546f2a556ba12204598ac",
+    "last_annotation_token": "1d826fe791024045a5987ed39d0ef8e5"
+  },
+  {
+    "token": "b1dc86f40d1347119e1edf32dfba6109",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 11,
+    "first_annotation_token": "ade6e9003c554e968e51276714245310",
+    "last_annotation_token": "d351cfdbe31f49dea142ad0395316568"
+  },
+  {
+    "token": "be05aab05fa14c259ccd3f41385f7303",
+    "category_token": "85abebdccd4d46c7be428af5a6173947",
+    "nbr_annotations": 10,
+    "first_annotation_token": "b4cd99a5ff704bef8f07ec98311c7158",
+    "last_annotation_token": "eb6d95967fee4736af37c42ad01d5d1a"
+  },
+  {
+    "token": "f5d7a83c361a4c759fcc257f39c2bffc",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 7,
+    "first_annotation_token": "c6b117f1dd734ccbae2567ef281392fa",
+    "last_annotation_token": "8db3f4ee2d3544cab9e99915fb965a20"
+  },
+  {
+    "token": "bad22611391f49bdae702e4c8914eb69",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 9,
+    "first_annotation_token": "0651806278f44189951638309d04038d",
+    "last_annotation_token": "7f7040ccd90a44d081208288e3e0e120"
+  },
+  {
+    "token": "21ce820568fa43948da4183c1ee93b42",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 1,
+    "first_annotation_token": "a31118660783437896f8db63c8b8f1ab",
+    "last_annotation_token": "a31118660783437896f8db63c8b8f1ab"
+  },
+  {
+    "token": "0b643dbfaa234b82a96cd1a0cbbf7491",
+    "category_token": "90d0f6f8e7c749149b1b6c3a029841a8",
+    "nbr_annotations": 6,
+    "first_annotation_token": "1134d889f707447792998bcfa17d851c",
+    "last_annotation_token": "8ae5239e594d4d3b87dd7bb8615bc1c6"
+  },
+  {
+    "token": "34daad97663c4e8ea00f842adc581ab5",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 27,
+    "first_annotation_token": "204f3df0559a4f5da0f5f523f680e230",
+    "last_annotation_token": "12af6002f65a48e4bdead64ce240626b"
+  },
+  {
+    "token": "ca5b3ca5aea745ee8fe12b0f74d77f8e",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 40,
+    "first_annotation_token": "c12f1f4ddc44407390f10b007cc24654",
+    "last_annotation_token": "3190a0d7b9f847bfba64489508dff5b6"
+  },
+  {
+    "token": "720ca55c654a4ac8bfe9babd1c1072be",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 25,
+    "first_annotation_token": "eed3cbde3d41448bb48150e954befca4",
+    "last_annotation_token": "2405507f90b1407fa6a691bdd629d856"
+  },
+  {
+    "token": "293693af6bb54699a63dfb6d8db3504f",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 35,
+    "first_annotation_token": "86a656ae9662460a984a4342e7cd6d8f",
+    "last_annotation_token": "87e4413284f3416aa2bd71644c000beb"
+  },
+  {
+    "token": "63510eb8f6ed4b3189002b1f2648ea1f",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 26,
+    "first_annotation_token": "8154e9b944fe4374aebddf2e8e618651",
+    "last_annotation_token": "36686d197709412fb760b7ed0a9d923e"
+  },
+  {
+    "token": "6dafc154a9ef43ff8fd680620dc90433",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 27,
+    "first_annotation_token": "af8fb60779584672bf0f255541d6c439",
+    "last_annotation_token": "e6e2b0c1195e4d6b95210406dcac8bc8"
+  },
+  {
+    "token": "4591a9f392774001a2cf523286505ac9",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 23,
+    "first_annotation_token": "8be4d9661d4a4fc1bd924b0a0aada78d",
+    "last_annotation_token": "bfd31c4ac18f49c7ae9ecb8f07a42b4d"
+  },
+  {
+    "token": "e2878e5b8aa849a18e39baee3f3440bd",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 41,
+    "first_annotation_token": "297376c506fc463da4035aa5942d798f",
+    "last_annotation_token": "22f7e09a058a4e69a57da661885e2138"
+  },
+  {
+    "token": "11a08ff383a6451bbda6b9af56cfa6e2",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 31,
+    "first_annotation_token": "2f4572ee320c459487374bdaa0a6d3b9",
+    "last_annotation_token": "b2d2c5662c0f4c8f85ffebd046fa9308"
+  },
+  {
+    "token": "c8fcea5cd6d344e69a92241622f58be7",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 20,
+    "first_annotation_token": "9acbfedf07354e9994cc599363fd41b0",
+    "last_annotation_token": "b45806906e45417191a3f59ce4c5a13c"
+  },
+  {
+    "token": "c5640d5eaa7d42cbbebe7c9bef889b88",
+    "category_token": "dfd26f200ade4d24b540184e16050022",
+    "nbr_annotations": 28,
+    "first_annotation_token": "569d50b806254108ad3bba85e7a24273",
+    "last_annotation_token": "5e691d38d2eb46dcaf08c9762098c2e1"
+  },
+  {
+    "token": "0cfdfb5bbe8a41268271e24f2edefb9c",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 41,
+    "first_annotation_token": "267428a57eb147e3b65e806e3e28c3d0",
+    "last_annotation_token": "3a5e8dbdd7994c8484bbc1e61040a063"
+  },
+  {
+    "token": "b8bbb0f8ce61468e93ff1d18c06ee663",
+    "category_token": "fc95c87b806f48f8a1faea2dcc2222a4",
+    "nbr_annotations": 13,
+    "first_annotation_token": "2a88e640a9fd4cfd83417cd61aa2b55b",
+    "last_annotation_token": "c8c80977d7f04f2383b65838d2dc66b3"
+  },
+  {
+    "token": "56c32476c6b1417e816ea238f30249f2",
+    "category_token": "dfd26f200ade4d24b540184e16050022",
+    "nbr_annotations": 18,
+    "first_annotation_token": "3762e935335c468cb4c9096c867dbe72",
+    "last_annotation_token": "a5bd2b4419b04119898dbcd5774ebe3d"
+  },
+  {
+    "token": "1a018f3bcdea44f9ab60912938495032",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 39,
+    "first_annotation_token": "2aefb57be575424aa665ba66479f8c33",
+    "last_annotation_token": "5dcdc2fca469429bbec2e8d8c2a52aa7"
+  },
+  {
+    "token": "f987ba5f8e6243889a731f8cffe1934b",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 33,
+    "first_annotation_token": "62fd6a74db7a4aaba568a6c254407310",
+    "last_annotation_token": "3712c3b7aa2a46b3bc233637241929e1"
+  },
+  {
+    "token": "cdbf619c586f41af8004473d4ec9ec33",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 26,
+    "first_annotation_token": "fae8444079354e94acbbd949e47731c4",
+    "last_annotation_token": "a2ca456d139445539e3d840e601b9dd0"
+  },
+  {
+    "token": "e83e110484e14c03a995b8c37696f9b3",
+    "category_token": "dfd26f200ade4d24b540184e16050022",
+    "nbr_annotations": 20,
+    "first_annotation_token": "481a4fe45fdb4561959bd7b3885cdc7d",
+    "last_annotation_token": "1a4ddb8f8d7b4c768cb42e728482ae5b"
+  },
+  {
+    "token": "41b3e689631a41e79d7c803f0765a693",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 35,
+    "first_annotation_token": "7494013c562a4152b465724bedf4949d",
+    "last_annotation_token": "d26250ce41b148bf97fb6c9754db8055"
+  },
+  {
+    "token": "64b22104a573415a8c860fc22214619c",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 28,
+    "first_annotation_token": "83059c267041413e99ef48d513486687",
+    "last_annotation_token": "4748d9f568b24562bd9587dad113defc"
+  },
+  {
+    "token": "98eef3fdea464efd92fb6aaf0ebe8c9a",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 28,
+    "first_annotation_token": "686f5488dd3e4064a7dd67454cadd0cd",
+    "last_annotation_token": "2429339f94a4409695c33109f98429e4"
+  },
+  {
+    "token": "e5cabb9d6b474377a206feab4ec64d3f",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 10,
+    "first_annotation_token": "cb4aae5d6d5041b3a08172f8206e4f73",
+    "last_annotation_token": "091b8feb6d004b8ca4ae5e4e1f3447de"
+  },
+  {
+    "token": "64ce64c25d424c3088db384021d8dbb3",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 6,
+    "first_annotation_token": "3e9276ce01f5406eab0ed8ec332aeec9",
+    "last_annotation_token": "12f6aa3c0ccf454da2298392b6ed98f5"
+  },
+  {
+    "token": "cb5fdffa966345cdb9c7c186143b7857",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 19,
+    "first_annotation_token": "e2bcaf2d595648c9a384eeed1ae8341e",
+    "last_annotation_token": "8329d901a8074d70abed1ad62b582678"
+  },
+  {
+    "token": "44ee4e1d2c6448669ea481fe72517bd6",
+    "category_token": "0a30519ee16a4619b4f4acfe2d78fb55",
+    "nbr_annotations": 18,
+    "first_annotation_token": "d171bf59e0e04e95bb6fb98bfc6ae621",
+    "last_annotation_token": "b56200a84d804506a79af66c0bde60f5"
+  },
+  {
+    "token": "6b7d108921ef4e87a46443fbc7f8f59e",
+    "category_token": "dfd26f200ade4d24b540184e16050022",
+    "nbr_annotations": 32,
+    "first_annotation_token": "37766100c74a461a971399f42b7abeb8",
+    "last_annotation_token": "fa0c1ff226fc4cd794bf0d7c81c80e37"
+  },
+  {
+    "token": "c5a370e03491457485bfda760515e537",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 17,
+    "first_annotation_token": "094c8d012ebe49b68c610c9129743e86",
+    "last_annotation_token": "0d89f3ef456e406a93d8ae333aeccf97"
+  },
+  {
+    "token": "48a9d21a865e4d10b3cc49cc91227fba",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 29,
+    "first_annotation_token": "69564b2c6504471182aa5c1f469e7b91",
+    "last_annotation_token": "1bc55858f4c04c5b8a5ed23166c940bb"
+  },
+  {
+    "token": "3eff2b1ecf29497e9967dd21509431fe",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 14,
+    "first_annotation_token": "033a2e1be1784008bfb1cbfab2b134b3",
+    "last_annotation_token": "7cc3b9049ab8437fa4235a09e38ec13e"
+  },
+  {
+    "token": "65acd0cbce474d9cb2eef362a1b279be",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 41,
+    "first_annotation_token": "c5a7fa4ccf9a43beb25ee790db0a8cb8",
+    "last_annotation_token": "9d6269db65bb42c3beea4e456d3ac610"
+  },
+  {
+    "token": "a9916751b03c494dafa2eddc4496e702",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 26,
+    "first_annotation_token": "8b9b8a042a6f4a58b1316236aa9df3b8",
+    "last_annotation_token": "3ac384e81d9d464496d1ced1b17f2713"
+  },
+  {
+    "token": "bbe3bc5ca1434a2ea802f5ed5062785e",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 25,
+    "first_annotation_token": "2cfe33c6b5a54b30894fd053dd6d8da9",
+    "last_annotation_token": "5ca26f24de324e339369b5b018663a8e"
+  },
+  {
+    "token": "6786acf4f6b644639d550c608785320f",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 35,
+    "first_annotation_token": "3de4b1f7850a433a9632c37361895741",
+    "last_annotation_token": "f8e5185ccc6142368358b407bcb51cc5"
+  },
+  {
+    "token": "7a770e392a814e7aa80e6eb74dfa91ef",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 41,
+    "first_annotation_token": "84548a0749aa440b990a4c986d06630c",
+    "last_annotation_token": "232dcfc0a08f43f6be2eaa596408cc8b"
+  },
+  {
+    "token": "de7bc639112c40ec9ebe406673f1487d",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 18,
+    "first_annotation_token": "aa2735ee8b6d4541beb0ae41026c6405",
+    "last_annotation_token": "69f39bc834ca4f1fa62692cbdeaf5ddb"
+  },
+  {
+    "token": "c2c271c1bc484bce81639bfda2083588",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 21,
+    "first_annotation_token": "bd33ded3dffb4f909c1ee9fc2c856d7d",
+    "last_annotation_token": "80f827b3494a4d1c9f46a274c64f52bd"
+  },
+  {
+    "token": "af7483c35ffa4ad193d14bbac3b0ab4e",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 24,
+    "first_annotation_token": "380aa835368e47f8949413aa0a8f6765",
+    "last_annotation_token": "825596fc7e7e4061a3f319e54a0b0dc8"
+  },
+  {
+    "token": "ebcd168fd25247f68482853796c9327f",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 17,
+    "first_annotation_token": "e0856054996a4bb8bce3dbddb3a86d1a",
+    "last_annotation_token": "8e4443dab5794971a6d5e3ae12984d0b"
+  },
+  {
+    "token": "9256b7cc27954e7bb5e3a3fb8c62474c",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 15,
+    "first_annotation_token": "dd444ca13f4940cfbf6243fcc98174eb",
+    "last_annotation_token": "3beea6b832c644ae97f0f2aea60e09f9"
+  },
+  {
+    "token": "856aeb4fa2024f1284c6290a44e9dec5",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 37,
+    "first_annotation_token": "a7cc946ca1f24d62a8d3b5a0f9d03739",
+    "last_annotation_token": "6e00a18336b34a84bf1b908947e1e3d6"
+  },
+  {
+    "token": "6c7970e410604a148cacfa37fbbf4e34",
+    "category_token": "fc95c87b806f48f8a1faea2dcc2222a4",
+    "nbr_annotations": 9,
+    "first_annotation_token": "c381e045f2dd44e2ba298e2225247e3d",
+    "last_annotation_token": "4568d80512604a31a3adc93ff236bf5a"
+  },
+  {
+    "token": "eeabbd601fff49c08c086829bfe13287",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 12,
+    "first_annotation_token": "a678d9d26f784565a8465aded8f6ced4",
+    "last_annotation_token": "43c07fcc3454468f970c3d2492e68d1a"
+  },
+  {
+    "token": "29d3fb54f8b746118133456815b12eeb",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 22,
+    "first_annotation_token": "0ba7d0afe58840e1a57eb719059e24f5",
+    "last_annotation_token": "bf7c0f67e3f140ae90dcceca59632655"
+  },
+  {
+    "token": "a96d8f8c04204ea5b5af21cc0b8a7042",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 33,
+    "first_annotation_token": "1079dd5ae76c4919a0e5761dda12b23a",
+    "last_annotation_token": "5d33aa6aa88a44409cba2eb9d167fa30"
+  },
+  {
+    "token": "2197057ff31949819b309f2c7ec9a113",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 34,
+    "first_annotation_token": "7e95dc15c0b2461f909a572183628d63",
+    "last_annotation_token": "a7172adf8cde4987b0b984b9b309a062"
+  },
+  {
+    "token": "0633f89a039a4e05bf60e53b57d1129d",
+    "category_token": "dfd26f200ade4d24b540184e16050022",
+    "nbr_annotations": 30,
+    "first_annotation_token": "61df67617872472eadd934983e311f51",
+    "last_annotation_token": "624e509e97c14cfaa98f26b7a567ffda"
+  },
+  {
+    "token": "29f69a7cb2c544c8a5ef26437a48e021",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 31,
+    "first_annotation_token": "0f095d85e7ce4a40968ae6e98527a7d3",
+    "last_annotation_token": "d5c360836ba04eb09dbb1a7f18e4e84d"
+  },
+  {
+    "token": "b5b922e29df847c197a8107251e3ca7d",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 8,
+    "first_annotation_token": "79caa65686004509ae92cdbe24d79c8b",
+    "last_annotation_token": "c1c314a05e0446228d2a2c590be49a83"
+  },
+  {
+    "token": "a661e4cd1f644266a8307b4948082ae7",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 33,
+    "first_annotation_token": "66b9adf3d48640a788dc2af21ce66934",
+    "last_annotation_token": "3d9d7b36d3ae4b9296b40e47c55b678c"
+  },
+  {
+    "token": "9ca01ff2a1b54d2eafaed768e58783ad",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 34,
+    "first_annotation_token": "50191a8e07f64ca8864d9a13178087ba",
+    "last_annotation_token": "fda2320c4e7a452e94fc69fc6302c7af"
+  },
+  {
+    "token": "0fdb63ddcc3e4279a4f7a0bb745c4dcf",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 23,
+    "first_annotation_token": "e225e122e66a4f2f9e2f38d7932894db",
+    "last_annotation_token": "da5682794ce2447f98fb0eefa75cf959"
+  },
+  {
+    "token": "a1cc58fdb3fa4a0097a315a77ce1be90",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 18,
+    "first_annotation_token": "31f7f118e7dd41659d248b3b386f1baa",
+    "last_annotation_token": "b59379f6bb444b6985b06d3f7da1023f"
+  },
+  {
+    "token": "307a3275c31f452eb9c7c66636c7bb27",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 19,
+    "first_annotation_token": "18545906d53d45329090689b6ac031ca",
+    "last_annotation_token": "804788ed386c4c0985fdec9cfa6edcc0"
+  },
+  {
+    "token": "54ca0158a30a4d8291684544ddbeff3f",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 20,
+    "first_annotation_token": "b71f75209d68467093e02f27cff04382",
+    "last_annotation_token": "e6c29eb7dfc44a1397ee927911db3740"
+  },
+  {
+    "token": "fd4862434baa4c208cff8861f181feaa",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 26,
+    "first_annotation_token": "236c254a11b147b4b0b427d45c8bf3c3",
+    "last_annotation_token": "8689ca8bd6424c0aac8f307fca8b464e"
+  },
+  {
+    "token": "c6d85e602dd342d99758b41e64e86e12",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 23,
+    "first_annotation_token": "9194fa78b86f470f9415a5db4257ae9f",
+    "last_annotation_token": "7299cb2da0cb467998884fe1ef41c4ca"
+  },
+  {
+    "token": "7e44b8c21c1a415c86f3bb874c4b01c0",
+    "category_token": "6021b5187b924d64be64a702e5570edf",
+    "nbr_annotations": 37,
+    "first_annotation_token": "bcfb23aa87b043d092088e7b8e20dc62",
+    "last_annotation_token": "7c2b6ccdebc14696846da26597b35566"
+  },
+  {
+    "token": "d71462c2ae74472bae3adbf7a41b2fc7",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 41,
+    "first_annotation_token": "f5c20ed3988f48559eceb7c5f3a54f25",
+    "last_annotation_token": "d14e300ccc2d4accb0c3b89c817c85a3"
+  },
+  {
+    "token": "6ad58d370ed542a9a68e1fcf5a4f2ee7",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 30,
+    "first_annotation_token": "a190ab091a0745118b9277460f28375e",
+    "last_annotation_token": "1064e57fb1574b9492dbb3ea01683f4a"
+  },
+  {
+    "token": "b825554384e042baba291f6f75c1ba49",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 25,
+    "first_annotation_token": "7776a19f4a084024a12de8d90bdf001c",
+    "last_annotation_token": "1a48fc1471ce43d6b130bcfc9a086b7b"
+  },
+  {
+    "token": "3da038082ac84defbcd46f1fdc3c6f03",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 15,
+    "first_annotation_token": "44cb2a4d7ea340309a23a3b11ff32519",
+    "last_annotation_token": "0d3bd397c2be4ea585be184ec2ced825"
+  },
+  {
+    "token": "55527032f0174fefa3b051a24707bf08",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 39,
+    "first_annotation_token": "ac2c696329d84dcfa092bb628d2b9a05",
+    "last_annotation_token": "6d2a8fe0af6f4bd7b9ac622fd1bcea36"
+  },
+  {
+    "token": "fa6ddc168ffb4ab88b718f719357211e",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 33,
+    "first_annotation_token": "bc5262f40494421394afc51ff1b0a244",
+    "last_annotation_token": "cc942b5627cb4279b76f7ebfcde1e24c"
+  },
+  {
+    "token": "77268b95b44a4b89ad17df89479de81c",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 24,
+    "first_annotation_token": "e9cc59459cd4494a9e59f9993dac7cdc",
+    "last_annotation_token": "0b55edfc2ce24b18ac5cdcb7a3b72d18"
+  },
+  {
+    "token": "486ade171d7a40e9b071de6d07f307aa",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 2,
+    "first_annotation_token": "481896b1a046468c89e2a50f7281d1cd",
+    "last_annotation_token": "27405cb1cbe649d3a78536e93d687c05"
+  },
+  {
+    "token": "b7ff9843f0bc4154a865230adb65a45d",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 20,
+    "first_annotation_token": "88f5630b6b6448e4a166ab255d6defc0",
+    "last_annotation_token": "eecec6ac169344a190a542453a64d3b7"
+  },
+  {
+    "token": "4b8ef2beabcf4121af0f287cd1a7fd55",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 22,
+    "first_annotation_token": "0b11e7bd9ece47639d780d6df2725ae7",
+    "last_annotation_token": "b999712a67ce4d6ab24342f1972cf248"
+  },
+  {
+    "token": "89eaf741be444d7e8fcc4748482d338d",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 19,
+    "first_annotation_token": "9a8b4713ac53417483c0a1aa626c0aef",
+    "last_annotation_token": "a4a69c0edf774db791a2c50d54c4aa28"
+  },
+  {
+    "token": "e3f3d97fa9564422a37828d01c8a2f5f",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 23,
+    "first_annotation_token": "a9c79341fde343a9ae9cc516180e952a",
+    "last_annotation_token": "7994487d057d440b90bfc0586816bcf5"
+  },
+  {
+    "token": "ec221beba32448e4a9865e920aeefed5",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 32,
+    "first_annotation_token": "c222e48889354a22ab4c3a536feceea7",
+    "last_annotation_token": "4ec9eedf24724e86bbeed72ac303d515"
+  },
+  {
+    "token": "e5a06b589b93428c867bd6a92ed6da93",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 21,
+    "first_annotation_token": "73831cee1aef4d5e8f2259683bcb773d",
+    "last_annotation_token": "ab594c137457487fb167761c58df1247"
+  },
+  {
+    "token": "9a21362d6ebf4e5ea344063cf4ae22ea",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 21,
+    "first_annotation_token": "e0d7a4b852304eed88d8b3bcbea56971",
+    "last_annotation_token": "eca4ef7d2dd14371ab319c5fd7b6606d"
+  },
+  {
+    "token": "ca3f0ced132845b4afce73a6f27a953e",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 15,
+    "first_annotation_token": "f542bc4be89c4251b9b936d25585bedf",
+    "last_annotation_token": "c9f1b49ab62240538bd4547e7609729d"
+  },
+  {
+    "token": "1a074d62265a4117964cb47c9a2e4842",
+    "category_token": "dfd26f200ade4d24b540184e16050022",
+    "nbr_annotations": 30,
+    "first_annotation_token": "b010f69454114423804fc6b05154913b",
+    "last_annotation_token": "3de24ad50ebc41f4bba210d831310ae4"
+  },
+  {
+    "token": "090067814c7e4bbea134dcd018d2083f",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 37,
+    "first_annotation_token": "eddddda9202a4677bd9c8748215aa72b",
+    "last_annotation_token": "e86f70af2c6143b9ac3070366767db19"
+  },
+  {
+    "token": "fe050ab6b19d41d8bc2641f9835e9d1b",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 32,
+    "first_annotation_token": "dcf58fa9f5664012910d0daece36863f",
+    "last_annotation_token": "23c01a50333c4ff9a912b6d956d2fb1a"
+  },
+  {
+    "token": "0b2ef8648d3c467989b67d5a3ce2a3df",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 18,
+    "first_annotation_token": "109695e51e754f8faf1c8564b5765ec2",
+    "last_annotation_token": "64be611c43e94103b0c333d6d9d5a70e"
+  },
+  {
+    "token": "8fba9861aa6d4d14b78c90fbb5372fb2",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 36,
+    "first_annotation_token": "ff00844d9478453eaff43c335d618941",
+    "last_annotation_token": "64657184e8424af9a53030ddd4f70a37"
+  },
+  {
+    "token": "7db99b003c8d4a7db1afc75160f47387",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 16,
+    "first_annotation_token": "e4d244fbdf2d4222ad3e323c6e6d22dd",
+    "last_annotation_token": "0fbc6c59316e46cf861874efa1624888"
+  },
+  {
+    "token": "68d411d0e8664a09b4c59787793b0b87",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 19,
+    "first_annotation_token": "ff2a69b6ad9140839c86bb0d23633512",
+    "last_annotation_token": "18bff4e96d6c4113ae9abc90affe21da"
+  },
+  {
+    "token": "ba34f167479c43c69be921c9658a488c",
+    "category_token": "dfd26f200ade4d24b540184e16050022",
+    "nbr_annotations": 38,
+    "first_annotation_token": "78a0952fec72452db175e8023235efb2",
+    "last_annotation_token": "c85cd5a3d2034dac9896aa84039b7e71"
+  },
+  {
+    "token": "1e1053e5f4224fb38f631e3be8c503c6",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 9,
+    "first_annotation_token": "41b957744ac543c8a46048ef24760c58",
+    "last_annotation_token": "32beeedcb9c44706802f47214e2c1d8f"
+  },
+  {
+    "token": "3eb275ac391e46aa8fad54e18a7b5a8f",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 21,
+    "first_annotation_token": "77c84cd64ace47d9a1e732da01cac771",
+    "last_annotation_token": "a4b6a93de1fe49ea8efbf9c7b7b5b4ce"
+  },
+  {
+    "token": "93d56d9b01754c99861f6bceb5874c9e",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 12,
+    "first_annotation_token": "9868aa47c1424a81817e5822767abca9",
+    "last_annotation_token": "71842c862e0640af83d18ee3bef46fe5"
+  },
+  {
+    "token": "6f6934f00f014284856716428eefd90e",
+    "category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+    "nbr_annotations": 9,
+    "first_annotation_token": "8d5d8018ded8482192a0901126a0c375",
+    "last_annotation_token": "1549e245295746028d52a8225503af6c"
+  },
+  {
+    "token": "5999098cd1734cea8979dd41bc34b88f",
+    "category_token": "dfd26f200ade4d24b540184e16050022",
+    "nbr_annotations": 36,
+    "first_annotation_token": "a7f9af1a719b438084d9dd7a77502fb6",
+    "last_annotation_token": "8d22e817843d40ea9701bebe5ceb2eac"
+  },
+  {
+    "token": "fd4ce422e0db4ad3ab978a811ba04d3a",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 36,
+    "first_annotation_token": "c96323226e844d7eab78209e5e715868",
+    "last_annotation_token": "cfcf576e4f14450b87c0fa4869940eac"
+  },
+  {
+    "token": "e676defd488b407886358ccc0764ebe9",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 29,
+    "first_annotation_token": "5ab21d11f3b04e0ab263bbb631d8e4f6",
+    "last_annotation_token": "d9e3f7bcb65d4daab11645394d369102"
+  },
+  {
+    "token": "2e84949acbd84ea3857ca2a04e50b6a4",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 15,
+    "first_annotation_token": "fca4a25c20264b418fdfac9aff99b249",
+    "last_annotation_token": "840157f4489e41c0ade626000355c444"
+  },
+  {
+    "token": "52770232202d4ad1a98ed07d5b4c20b9",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 36,
+    "first_annotation_token": "1d2b002ea4ed4b82b8c252bb3fac79bf",
+    "last_annotation_token": "6efd161e6cad42d78e120fe2162f46dc"
+  },
+  {
+    "token": "8a26f7d33ff04b1a8c8679f8c4a7da91",
+    "category_token": "fedb11688db84088883945752e480c2c",
+    "nbr_annotations": 41,
+    "first_annotation_token": "06445bfcdd2b49f79aaadc64f45a851b",
+    "last_annotation_token": "4ed99ac3f25e497da906277a24cd5cfc"
+  },
+  {
+    "token": "ec5241e32939433baeb2b3955920b28c",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 31,
+    "first_annotation_token": "dc1d1db2d75a4ec18082f35c142b76b3",
+    "last_annotation_token": "4060740b5419440294001820f9a185ef"
+  },
+  {
+    "token": "7a2612095f7840048f58d69a07e836a5",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 26,
+    "first_annotation_token": "c1ed90a4581d4c87a3480c316515c7bc",
+    "last_annotation_token": "b8a99ef1af04405d96b04867d333cb4f"
+  },
+  {
+    "token": "ec2a550c52b240d98c9c3bca3d06602f",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 34,
+    "first_annotation_token": "f2cf1c17622f4ace872c41192bb2069e",
+    "last_annotation_token": "c084177b3014456a8a2c4c61d1722d77"
+  },
+  {
+    "token": "85269a87307a4ee3967e37b496e32280",
+    "category_token": "fd69059b62a3469fbaef25340c0eab7f",
+    "nbr_annotations": 20,
+    "first_annotation_token": "928aa981c62f459a9319c0bfbe2a4e37",
+    "last_annotation_token": "13d4c2cc4d324be884be92b564088e94"
+  }
+]

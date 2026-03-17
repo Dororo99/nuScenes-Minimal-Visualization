@@ -1,0 +1,14 @@
+# Sweeps data (812MB, not used by notebooks - only key-frames needed)
+data/sweeps/
+
+# Generated outputs
+output/
+output_standalone/
+
+# Executed notebooks (large due to embedded images)
+*_executed.ipynb
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
