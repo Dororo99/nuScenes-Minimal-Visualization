@@ -1,5 +1,5 @@
-# Sweeps data (812MB, not used by notebooks - only key-frames needed)
-data/sweeps/
+# Dataset (too large for git)
+data/
 
 # Generated outputs
 output/
